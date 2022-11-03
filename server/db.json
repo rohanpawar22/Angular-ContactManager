@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Rohan Pawar",
+      "email": "rohan@gmail.com",
+      "photo": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/ce54bf11889067.562541ef7cde4.png",
+      "mobile": "9823552399",
+      "company": "Youtube",
+      "title": "Angular Developer",
+      "groupId": "3"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Rachit Rawal",
+      "email": "rachit@gmail.com",
+      "photo": "https://e7.pngegg.com/pngimages/643/98/png-clipart-computer-icons-avatar-mover-business-flat-design-corporate-elderly-care-microphone-heroes-thumbnail.png",
+      "mobile": "7855124475",
+      "company": "Youtube",
+      "title": "Food Vlogger",
+      "groupId": "2"
+    },
+    {
+      "id": "YpiuDI66oP",
+      "name": "Siddhesh Toraskar",
+      "email": "sid@gmail.com",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219988.png",
+      "mobile": "9499949994",
+      "company": "Google",
+      "title": "Software Engineer",
+      "groupId": "4"
+    },
+    {
+      "id": "UyEDv5Yds",
+      "name": "Karan Pawar",
+      "email": "Karan@gmail.com",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219986.png",
+      "mobile": "8752297322",
+      "company": "Apple",
+      "title": "Senior Software Developer",
+      "groupId": "1"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
